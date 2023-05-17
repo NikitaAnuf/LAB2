@@ -1,0 +1,169 @@
+.image_1 {
+  width: 200px;
+  height: 200px;
+  background-color: #004d99;
+  border: 1px solid;
+  display: flex;
+}
+
+.image_2 {
+  width: 200px;
+  height: 200px;
+  background-color: #06c;
+  border: 1px solid;
+  display: flex;
+}
+
+.image_3 {
+  width: 200px;
+  height: 200px;
+  background-color: #0080ff;
+  border: 1px solid;
+  display: flex;
+}
+
+.image_4 {
+  width: 200px;
+  height: 200px;
+  background-color: #39f;
+  border: 1px solid;
+  display: flex;
+}
+
+.image_5 {
+  width: 200px;
+  height: 200px;
+  background-color: #66b3ff;
+  border: 1px solid;
+  display: flex;
+}
+
+.flex_container {
+  width: 1000px;
+  height: 100px;
+  background: #dcdcdc;
+  border: 1px solid;
+  justify-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.flex_heading {
+  width: 800px;
+  justify-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+}
+
+.flex_objects {
+  width: 905px;
+  flex-flow: wrap;
+  align-content: flex-start;
+  justify-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.flex_objects_element {
+  word-wrap: normal;
+  width: 200px;
+  flex-direction: column;
+  margin-bottom: 20px;
+  margin-left: 50px;
+  margin-right: 50px;
+}
+
+.flex_logo {
+  width: 50px;
+  height: 70px;
+  background-color: #29b6f6;
+  margin-left: 50px;
+}
+
+.flex_button {
+  width: 100px;
+  height: 30px;
+  background-color: #29b6f6;
+  justify-self: center;
+  margin: auto 50px auto auto;
+  display: flex;
+}
+
+.flex_button :hover {
+  cursor: pointer;
+}
+
+.flex_image {
+  width: 90px;
+  height: 20px;
+  background-color: #b3e5fc;
+  margin-top: 10px;
+  margin-left: 10px;
+  font-size: 16px;
+}
+
+.flex_footer {
+  height: 100px;
+  border-top: 1px solid;
+  justify-content: space-between;
+  justify-self: center;
+  margin-left: auto;
+  margin-right: auto;
+  display: flex;
+}
+
+.text_logo {
+  color: #fff;
+  text-align: center;
+  font-family: Times New Roman, Times, serif;
+}
+
+.text_container {
+  color: #29b6f6;
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 50px;
+  font-size: 24px;
+}
+
+.text_button {
+  color: #fff;
+  margin: auto;
+  font-size: 16px;
+}
+
+.text_object_name {
+  font-size: 24px;
+  font-weight: bold;
+}
+
+.text_object_info {
+  font-size: 16px;
+}
+
+.text_footer {
+  margin-top: auto;
+  margin-bottom: auto;
+  margin-left: 320px;
+}
+
+.footer_images {
+  width: 50px;
+  height: 50px;
+  align-content: center;
+  margin: auto 420px auto auto;
+  display: flex;
+}
+
+.toast {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+}
+
+/*# sourceMappingURL=index.2cdaf7bc.css.map */

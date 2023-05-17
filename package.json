@@ -1,0 +1,28 @@
+{
+
+  "dependencies": {
+
+    "bootstrap": "^5.2.3",
+
+    "extends": "@parcel/config-default",
+
+    "git": "^0.1.5",
+
+    "jquery": "^3.7.0",
+
+    "parcel": "^2.8.3",
+
+    "popper.js": "^1.16.1",
+
+    "util.js": "^0.0.0"
+
+  },
+
+  "scripts": {
+
+    "build": "parcel src/index.html"
+
+  }
+
+}
+
